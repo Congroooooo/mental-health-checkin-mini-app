@@ -28,8 +28,8 @@ A small HR wellness app where **employees** submit daily mental-health check-ins
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Congroooooo/mental-health-checkin.git
-cd mental-health-checkin
+git clone https://github.com/Congroooooo/mental-health-checkin-mini-app.git
+cd mental-health-checkin-mini-app
 ```
 
 ### 2. Install dependencies
